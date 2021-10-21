@@ -1,0 +1,1527 @@
+fileFormatVersion: 2
+guid: 69cc65feaf9f8a543aef9e9c41558cbe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4381435612797846179
+    second: Platformer-Pixel-Art-Cave-2D-Tileset2_0
+  - first:
+      213: -2020534506549202504
+    second: Platformer-Pixel-Art-Cave-2D-Tileset2_1
+  - first:
+      213: -4932108384637519330
+    second: Platformer-Pixel-Art-Cave-2D-Tileset2_2
+  - first:
+      213: 1888658922797184216
+    second: Platformer-Pixel-Art-Cave-2D-Tileset2_3
+  - first:
+      213: -7127299760554701370
+    second: Platformer-Pixel-Art-Cave-2D-Tileset2_4
+  - first:
+      213: -4862494896324878918
+    second: Platformer-Pixel-Art-Cave-2D-Tileset2_5
+  - first:
+      213: 1545933907939887167
+    second: Platformer-Pixel-Art-Cave-2D-Tileset2_6
+  - first:
+      213: 4351281129170382862
+    second: Platformer-Pixel-Art-Cave-2D-Tileset2_7
+  - first:
+      213: -1957995816221346771
+    second: Platformer-Pixel-Art-Cave-2D-Tileset2_8
+  - first:
+      213: -2349532396154716586
+    second: Platformer-Pixel-Art-Cave-2D-Tileset2_9
+  - first:
+      213: -3644943023813616171
+    second: Platformer-Pixel-Art-Cave-2D-Tileset2_10
+  - first:
+      213: 2686841465204120013
+    second: Platformer-Pixel-Art-Cave-2D-Tileset2_11
+  - first:
+      213: 4217943661999247312
+    second: Platformer-Pixel-Art-Cave-2D-Tileset2_12
+  - first:
+      213: 6129466635542684577
+    second: Platformer-Pixel-Art-Cave-2D-Tileset2_13
+  - first:
+      213: 1671655400308164574
+    second: Platformer-Pixel-Art-Cave-2D-Tileset2_14
+  - first:
+      213: 5406265302522314709
+    second: Platformer-Pixel-Art-Cave-2D-Tileset2_15
+  - first:
+      213: 1297057817044935430
+    second: Platformer-Pixel-Art-Cave-2D-Tileset2_16
+  - first:
+      213: 8091031756015191957
+    second: Platformer-Pixel-Art-Cave-2D-Tileset2_17
+  - first:
+      213: 279087679518983005
+    second: Platformer-Pixel-Art-Cave-2D-Tileset2_18
+  - first:
+      213: 5831167038259877169
+    second: Platformer-Pixel-Art-Cave-2D-Tileset2_19
+  - first:
+      213: -8579697669976078228
+    second: Platformer-Pixel-Art-Cave-2D-Tileset2_20
+  - first:
+      213: -8010752321181825468
+    second: Platformer-Pixel-Art-Cave-2D-Tileset2_21
+  - first:
+      213: -605714400419161651
+    second: Platformer-Pixel-Art-Cave-2D-Tileset2_22
+  - first:
+      213: -1052874972977633147
+    second: Platformer-Pixel-Art-Cave-2D-Tileset2_23
+  - first:
+      213: 2170834763793145331
+    second: Platformer-Pixel-Art-Cave-2D-Tileset2_24
+  - first:
+      213: 5758180030849480535
+    second: Platformer-Pixel-Art-Cave-2D-Tileset2_25
+  - first:
+      213: 2938803414395718705
+    second: Platformer-Pixel-Art-Cave-2D-Tileset2_26
+  - first:
+      213: 803846692548891824
+    second: Platformer-Pixel-Art-Cave-2D-Tileset2_27
+  - first:
+      213: 6984214087545112863
+    second: Platformer-Pixel-Art-Cave-2D-Tileset2_28
+  - first:
+      213: -561534583276248266
+    second: Platformer-Pixel-Art-Cave-2D-Tileset2_29
+  - first:
+      213: -857148219617753617
+    second: Platformer-Pixel-Art-Cave-2D-Tileset2_30
+  - first:
+      213: 1726807661108744310
+    second: Platformer-Pixel-Art-Cave-2D-Tileset2_31
+  - first:
+      213: 347253774881529586
+    second: Platformer-Pixel-Art-Cave-2D-Tileset2_32
+  - first:
+      213: -8521096473380116972
+    second: Platformer-Pixel-Art-Cave-2D-Tileset2_33
+  - first:
+      213: 7920254855026023213
+    second: Platformer-Pixel-Art-Cave-2D-Tileset2_34
+  - first:
+      213: -1445657357270668631
+    second: Platformer-Pixel-Art-Cave-2D-Tileset2_35
+  - first:
+      213: 3781554497453003061
+    second: Platformer-Pixel-Art-Cave-2D-Tileset2_36
+  - first:
+      213: 3116518052761258659
+    second: Platformer-Pixel-Art-Cave-2D-Tileset2_37
+  - first:
+      213: -6929547138958761654
+    second: Platformer-Pixel-Art-Cave-2D-Tileset2_38
+  - first:
+      213: -9012353535015007810
+    second: Platformer-Pixel-Art-Cave-2D-Tileset2_39
+  - first:
+      213: 3518539196509232856
+    second: Platformer-Pixel-Art-Cave-2D-Tileset2_40
+  - first:
+      213: 137236787884882634
+    second: Platformer-Pixel-Art-Cave-2D-Tileset2_41
+  - first:
+      213: 6916532853547738999
+    second: Platformer-Pixel-Art-Cave-2D-Tileset2_42
+  - first:
+      213: 6998704507623102021
+    second: Platformer-Pixel-Art-Cave-2D-Tileset2_43
+  - first:
+      213: 4050891969167328373
+    second: Platformer-Pixel-Art-Cave-2D-Tileset2_44
+  - first:
+      213: 6281348181246798559
+    second: Platformer-Pixel-Art-Cave-2D-Tileset2_45
+  - first:
+      213: -644288795391117848
+    second: Platformer-Pixel-Art-Cave-2D-Tileset2_46
+  - first:
+      213: -4979690216497244297
+    second: Platformer-Pixel-Art-Cave-2D-Tileset2_47
+  - first:
+      213: 719096566075532358
+    second: Platformer-Pixel-Art-Cave-2D-Tileset2_48
+  - first:
+      213: -5001501133988644567
+    second: Platformer-Pixel-Art-Cave-2D-Tileset2_49
+  - first:
+      213: -6685330784260545669
+    second: Platformer-Pixel-Art-Cave-2D-Tileset2_50
+  - first:
+      213: -9083918388658630523
+    second: Platformer-Pixel-Art-Cave-2D-Tileset2_51
+  - first:
+      213: 6128580734892242934
+    second: Platformer-Pixel-Art-Cave-2D-Tileset2_52
+  - first:
+      213: -3615844608879050852
+    second: Platformer-Pixel-Art-Cave-2D-Tileset2_53
+  - first:
+      213: 8430700696524899814
+    second: Platformer-Pixel-Art-Cave-2D-Tileset2_54
+  - first:
+      213: 1223355463746109272
+    second: Platformer-Pixel-Art-Cave-2D-Tileset2_55
+  - first:
+      213: 7023402981688655580
+    second: Platformer-Pixel-Art-Cave-2D-Tileset2_56
+  - first:
+      213: -4146961533669925555
+    second: Platformer-Pixel-Art-Cave-2D-Tileset2_57
+  - first:
+      213: -6728821502204496940
+    second: Platformer-Pixel-Art-Cave-2D-Tileset2_58
+  - first:
+      213: -7080440863499816654
+    second: Platformer-Pixel-Art-Cave-2D-Tileset2_59
+  - first:
+      213: 9021835659021729735
+    second: Platformer-Pixel-Art-Cave-2D-Tileset2_60
+  - first:
+      213: 7188852860938499350
+    second: Platformer-Pixel-Art-Cave-2D-Tileset2_61
+  - first:
+      213: -6883029305853883501
+    second: Platformer-Pixel-Art-Cave-2D-Tileset2_62
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 63
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Cave-2D-Tileset2_0
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 817
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d30f426830233c0800000000000000
+      internalID: -4381435612797846179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Cave-2D-Tileset2_1
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 817
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b137b0529e95f3e0800000000000000
+      internalID: -2020534506549202504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Cave-2D-Tileset2_2
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 817
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a74fb3e81ad8bb0800000000000000
+      internalID: -4932108384637519330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Cave-2D-Tileset2_3
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 817
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4b233a84dd53a10800000000000000
+      internalID: 1888658922797184216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Cave-2D-Tileset2_4
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 817
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd096c31aeb61d90800000000000000
+      internalID: -7127299760554701370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Cave-2D-Tileset2_5
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 817
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abdd76687a2f48cb0800000000000000
+      internalID: -4862494896324878918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Cave-2D-Tileset2_6
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 840
+        width: 64
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f380df4d2b2447510800000000000000
+      internalID: 1545933907939887167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Cave-2D-Tileset2_7
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 840
+        width: 67
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00bf06022bd26c30800000000000000
+      internalID: 4351281129170382862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Cave-2D-Tileset2_8
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 841
+        width: 64
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24fc66dd2dc3d4e0800000000000000
+      internalID: -1957995816221346771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Cave-2D-Tileset2_10
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 745
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd1d0fa1af8a6dc0800000000000000
+      internalID: -3644943023813616171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Cave-2D-Tileset2_11
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 745
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9184db314994520800000000000000
+      internalID: 2686841465204120013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Cave-2D-Tileset2_12
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 745
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df4318b965298a30800000000000000
+      internalID: 4217943661999247312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Cave-2D-Tileset2_13
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 745
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a361220e6d301550800000000000000
+      internalID: 6129466635542684577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Cave-2D-Tileset2_14
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 745
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed74b32dab9e23710800000000000000
+      internalID: 1671655400308164574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Cave-2D-Tileset2_15
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 745
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dfbc5626a9e60b40800000000000000
+      internalID: 5406265302522314709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Cave-2D-Tileset2_16
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 772
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6036b166633100210800000000000000
+      internalID: 1297057817044935430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Cave-2D-Tileset2_17
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 776
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 597c0b3938e194070800000000000000
+      internalID: 8091031756015191957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Cave-2D-Tileset2_18
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 768
+        width: 62
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d53caee04c48fd300800000000000000
+      internalID: 279087679518983005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Cave-2D-Tileset2_19
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 673
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1355275c6877ce050800000000000000
+      internalID: 5831167038259877169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Cave-2D-Tileset2_20
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 673
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6844d42d6acee880800000000000000
+      internalID: -8579697669976078228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Cave-2D-Tileset2_21
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 673
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4464258e43714d090800000000000000
+      internalID: -8010752321181825468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Cave-2D-Tileset2_22
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 673
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc95da746f11897f0800000000000000
+      internalID: -605714400419161651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Cave-2D-Tileset2_23
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 673
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588e4ca5acf6361f0800000000000000
+      internalID: -1052874972977633147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Cave-2D-Tileset2_24
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 673
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd95f157ba502e10800000000000000
+      internalID: 2170834763793145331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Cave-2D-Tileset2_25
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 704
+        width: 60
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757f78bda3a29ef40800000000000000
+      internalID: 5758180030849480535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Cave-2D-Tileset2_26
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 698
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c03cb822ab8c820800000000000000
+      internalID: 2938803414395718705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Cave-2D-Tileset2_27
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 697
+        width: 63
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4df33de46d72b00800000000000000
+      internalID: 803846692548891824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Cave-2D-Tileset2_28
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 601
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19c76b65b9ece060800000000000000
+      internalID: 6984214087545112863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Cave-2D-Tileset2_29
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 601
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633e8ba85470538f0800000000000000
+      internalID: -561534583276248266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Cave-2D-Tileset2_30
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 601
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe543d15c3cca14f0800000000000000
+      internalID: -857148219617753617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Cave-2D-Tileset2_31
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 604
+        width: 65
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6705fc33b6ad6f710800000000000000
+      internalID: 1726807661108744310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Cave-2D-Tileset2_32
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 601
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe1abae771b1d400800000000000000
+      internalID: 347253774881529586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Cave-2D-Tileset2_33
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 601
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416285777ebfeb980800000000000000
+      internalID: -8521096473380116972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Cave-2D-Tileset2_34
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 636
+        width: 67
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b936cc3d56aed60800000000000000
+      internalID: 7920254855026023213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Cave-2D-Tileset2_35
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 618
+        width: 67
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aaa3f00b4effebe0800000000000000
+      internalID: -1445657357270668631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Cave-2D-Tileset2_36
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 633
+        width: 63
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5319777a7c7ca7430800000000000000
+      internalID: 3781554497453003061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Cave-2D-Tileset2_37
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 529
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa4dee28a8104b20800000000000000
+      internalID: 3116518052761258659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Cave-2D-Tileset2_38
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 529
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41e908679d45df90800000000000000
+      internalID: -6929547138958761654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Cave-2D-Tileset2_39
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 529
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9c13b9530bde280800000000000000
+      internalID: -9012353535015007810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Cave-2D-Tileset2_40
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 529
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de9838d1cc54d030800000000000000
+      internalID: 3518539196509232856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Cave-2D-Tileset2_41
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 528
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca7ef7a12097e100800000000000000
+      internalID: 137236787884882634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Cave-2D-Tileset2_42
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 528
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77728052cf57cff50800000000000000
+      internalID: 6916532853547738999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Cave-2D-Tileset2_44
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 440
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57483bd88c8a73830800000000000000
+      internalID: 4050891969167328373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Cave-2D-Tileset2_45
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 441
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdae2cd04e4db2750800000000000000
+      internalID: 6281348181246798559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Cave-2D-Tileset2_46
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 441
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e5b2f111c60f07f0800000000000000
+      internalID: -644288795391117848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Cave-2D-Tileset2_47
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 441
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7779132b12694eab0800000000000000
+      internalID: -4979690216497244297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Cave-2D-Tileset2_49
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 369
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929b4ecb739179ab0800000000000000
+      internalID: -5001501133988644567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Cave-2D-Tileset2_50
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 369
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73aa26721fe833a0800000000000000
+      internalID: -6685330784260545669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Cave-2D-Tileset2_51
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 369
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5801d5baa507fe180800000000000000
+      internalID: -9083918388658630523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Cave-2D-Tileset2_52
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 369
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7fd8035b71d0550800000000000000
+      internalID: 6128580734892242934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Cave-2D-Tileset2_53
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 297
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9fb0cc5c70f1ddc0800000000000000
+      internalID: -3615844608879050852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Cave-2D-Tileset2_54
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 297
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e54100ad9ddff470800000000000000
+      internalID: 8430700696524899814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Cave-2D-Tileset2_55
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 297
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85fbe9a005b3af010800000000000000
+      internalID: 1223355463746109272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Cave-2D-Tileset2_56
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 297
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdeb8fddcc3287160800000000000000
+      internalID: 7023402981688655580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Cave-2D-Tileset2_58
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 225
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d3371c9e7c6e92a0800000000000000
+      internalID: -6728821502204496940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Cave-2D-Tileset2_59
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 225
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231fee56c883dbd90800000000000000
+      internalID: -7080440863499816654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Cave-2D-Tileset2_60
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 225
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf31fd6bbff33d70800000000000000
+      internalID: 9021835659021729735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Cave-2D-Tileset2_61
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 225
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6153aceb69fe3c360800000000000000
+      internalID: 7188852860938499350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
